@@ -9,3 +9,5 @@ text2 = text1.split(' ')
 print(len(text2))
 # I print the array here
 print(text2)
+
+# Finding a specific words
