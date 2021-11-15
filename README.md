@@ -10,3 +10,15 @@ In order to be successful in this course, you will need to know how to program i
 * Document, larger files
 
 In this course in python we are tolking about all this concepts and their properties
+
+## Week 1
+
+Les liens utils:
+
+1. https://docs.python.org/3/library/re.html
+
+2. https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
+
+3. https://ieva.rocks/2016/08/07/cleaning-text-for-nlp/
+
+4. https://chrisalbon.com/python/cleaning_text.html
