@@ -91,3 +91,7 @@ compared to the artificial computer language
 ![image 5](images/5.png)
 
 ![image 6](images/6.png)
+
+## POS Tagging & Parsing Complexity
+
+![image 8](images/8.png)
