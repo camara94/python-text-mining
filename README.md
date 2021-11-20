@@ -98,4 +98,4 @@ compared to the artificial computer language
 
 ## Task Home Concepts
 
-![image 9](images/9.png)
+![image 10](images/10.png)
