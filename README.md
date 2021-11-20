@@ -32,22 +32,3 @@ In this module, we will tolk to **Natural Language**
    * English
    * Chinese
    * spanish
-
-  compared to the artificial computer language
-
-* Any computation, manipulation of natural language
-* Natural language evolve
-  * new words get added
-  * old words lose popularity
-  * language rules themselves may change
-
-## NLT Task: A Broad Spectrum
-
-* Computing words, counting frequency of words
-* Finding sentence boundaries
-* Part of speech tagging
-* Parsing the sentence structure
-* Identifying semantic roles
-* Identifying entities in a sentences
-* Finding which pronoun refers to which entity
-  
