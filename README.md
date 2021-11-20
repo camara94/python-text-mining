@@ -69,8 +69,3 @@ compared to the artificial computer language
     <code>from nltk.dowload()</code><br>
 
     for more information see lab week2
-
-## Tokenization
-
-* Recall splitting a sentence into words / tokens
-
