@@ -22,3 +22,32 @@ Les liens utils:
 3. https://ieva.rocks/2016/08/07/cleaning-text-for-nlp/
 
 4. https://chrisalbon.com/python/cleaning_text.html
+
+## Week 2
+In this module, we will tolk to **Natural Language**
+
+### What is Natural Language ?
+
+* Language used for everyday communication by humans
+   * English
+   * Chinese
+   * spanish
+
+  compared to the artificial computer language
+
+* Any computation, manipulation of natural language
+* Natural language evolve
+  * new words get added
+  * old words lose popularity
+  * language rules themselves may change
+
+## NLT Task: A Broad Spectrum
+
+* Computing words, counting frequency of words
+* Finding sentence boundaries
+* Part of speech tagging
+* Parsing the sentence structure
+* Identifying semantic roles
+* Identifying entities in a sentences
+* Finding which pronoun refers to which entity
+  
