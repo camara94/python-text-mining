@@ -85,3 +85,7 @@ compared to the artificial computer language
 ## Parsing Sentence Structure
 
   ![image 4](images/4.png)
+
+## Ambiguity in Parsing 
+
+![image 5](images/5.png)
