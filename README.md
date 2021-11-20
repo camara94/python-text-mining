@@ -32,3 +32,11 @@ In this module, we will tolk to **Natural Language**
    * English
    * Chinese
    * spanish
+
+compared to the artificial computer language
+
+* Any computation, manipulation of natural language
+* Natural language evolve
+  * new words get added
+  * old words lose popularity
+  * language rules themselves may change
