@@ -89,3 +89,5 @@ compared to the artificial computer language
 ## Ambiguity in Parsing 
 
 ![image 5](images/5.png)
+
+![image 6](images/6.png)
