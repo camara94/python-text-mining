@@ -39,4 +39,14 @@ compared to the artificial computer language
 * Natural language evolve
   * new words get added
   * old words lose popularity
-  * language rules themselves may change
+  * language rules themselves may change.
+
+## NLT Task: A Broad Spectrum
+
+* Computing words, counting frequency of words
+* Finding sentence boundaries
+* Part of speech tagging
+* Parsing the sentence structure
+* Identifying semantic roles
+* Identifying entities in a sentences
+* Finding which pronoun refers to which entity
