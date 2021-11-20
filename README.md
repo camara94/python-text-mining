@@ -82,3 +82,6 @@ compared to the artificial computer language
 ## Ambiguity in POS Tagging  
 
   ![image 3](images/3.png)
+## Parsing Sentence Structure
+
+  ![image 4](images/4.png)
