@@ -95,3 +95,7 @@ compared to the artificial computer language
 ## POS Tagging & Parsing Complexity
 
 ![image 8](images/8.png)
+
+## Task Home Concepts
+
+![image 9](images/9.png)
