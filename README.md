@@ -73,3 +73,30 @@ compared to the artificial computer language
 ## Tokenization
 
 * Recall splitting a sentence into words / tokens
+
+## Part-of-speech (POS) Tagging
+
+* Recall high school grammar: nouns, verbs, adjectives,...<br/>
+  ![image 2](images/2.png)
+
+## Ambiguity in POS Tagging
+
+  ![image 3](images/3.png)
+
+## Parsing Sentence Structure
+
+  ![image 4](images/4.png)
+
+## Ambiguity in Parsing 
+
+![image 5](images/5.png)
+
+![image 6](images/6.png)
+
+## POS Tagging & Parsing Complexity
+
+![image 8](images/8.png)
+
+## Task Home Concepts
+
+![image 9](images/9.png)
