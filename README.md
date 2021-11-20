@@ -50,3 +50,27 @@ compared to the artificial computer language
 * Identifying semantic roles
 * Identifying entities in a sentences
 * Finding which pronoun refers to which entity
+
+## An Introduction to NLTK
+
+* NLTK: Natural Language Toolkit
+* Open source library in Python
+* Has support for most NLP tasks
+* Also provides access to numerous text corpora
+
+## Usage of NLTK
+
+* Importation<br/>
+    <code>import nltk</code>
+
+* Let's get some text corpora<br/>
+    <code>nltk.download()</code>
+
+    <code>from nltk.dowload()</code><br>
+
+    for more information see lab week2
+
+## Tokenization
+
+* Recall splitting a sentence into words / tokens
+
