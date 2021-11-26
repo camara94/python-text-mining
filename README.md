@@ -99,3 +99,7 @@ compared to the artificial computer language
 ## Task Home Concepts
 
 ![image 10](images/10.png)
+
+## Examples of Text Classification
+
+![image  11](images/11.png)
