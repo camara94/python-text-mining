@@ -103,3 +103,7 @@ compared to the artificial computer language
 ## Examples of Text Classification
 
 ![image  11](images/12.png)
+
+## Supervised Learning
+
+![image  12](images/13.png)
