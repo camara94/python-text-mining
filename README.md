@@ -123,3 +123,7 @@ compared to the artificial computer language
 ## Classification paradigms
 
 ![image  18](images/19.png)
+
+## Questions to ask in Supervised Learning
+
+![image 20](images/20.png)
