@@ -112,6 +112,10 @@ compared to the artificial computer language
 
 ![image  14](images/14.png)
 
-## Supervised Classification
+## Supervised Classification Model
 
 ![image  15](images/15.png)
+
+## Divide Dataset in two parts
+
+![image  16](images/16.png)
