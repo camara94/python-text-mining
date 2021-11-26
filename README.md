@@ -119,3 +119,5 @@ compared to the artificial computer language
 ## Divide Dataset in two parts
 
 ![image  16](images/17.png)
+
+## Classification paradigms
