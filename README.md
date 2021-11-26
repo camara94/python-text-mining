@@ -110,4 +110,8 @@ compared to the artificial computer language
 
 ## Supervised Classification Step
 
-![image  4](images/14.png)
+![image  14](images/14.png)
+
+## Supervised Classification
+
+![image  15](images/15.png)
