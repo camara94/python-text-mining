@@ -102,4 +102,4 @@ compared to the artificial computer language
 
 ## Examples of Text Classification
 
-![image  11](images/11.png)
+![image  11](images/12.png)
