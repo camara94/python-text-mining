@@ -121,3 +121,5 @@ compared to the artificial computer language
 ![image  16](images/17.png)
 
 ## Classification paradigms
+
+![image  18](images/18.png)
