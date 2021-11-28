@@ -148,4 +148,7 @@ compared to the artificial computer language
 
 ## Case study: Classifying text search queries
 
-![image 25](images/26.png)
+![image 26](images/26.png)
+
+![image 27](images/27.png)
+
