@@ -157,3 +157,6 @@ compared to the artificial computer language
 ![image 29](images/29.png)
 
 ## Bayes' Rule
+
+![image 30](images/30.png)
+
