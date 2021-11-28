@@ -129,3 +129,7 @@ compared to the artificial computer language
 ![image 20](images/21.png)
 
 ## Why is textual data unique ?
+
+![image 22](images/22.png)
+
+## Types of textual features (1)
