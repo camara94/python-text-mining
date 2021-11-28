@@ -169,3 +169,8 @@ compared to the artificial computer language
 ## Example classification
 
 ![image 34](images/34.png)
+
+## Naïve Bayes: Learning parameters
+
+![image 35](images/35.png)
+
