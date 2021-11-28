@@ -139,3 +139,7 @@ compared to the artificial computer language
 ## Types of textual features (2)
 
 ![image 24](images/24.png)
+
+## Types of textual features (3)
+
+![image 25](images/25.png)
