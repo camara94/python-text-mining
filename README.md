@@ -165,3 +165,7 @@ compared to the artificial computer language
 ![image 32](images/32.png)
 
 ![image 33](images/33.png)
+
+## Example classification
+
+![image 34](images/34.png)
