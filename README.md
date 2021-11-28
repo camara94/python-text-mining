@@ -147,3 +147,5 @@ compared to the artificial computer language
 ## Naive Bayes Classifiers
 
 ## Case study: Classifying text search queries
+
+![image 25](images/26.png)
