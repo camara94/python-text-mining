@@ -174,4 +174,4 @@ compared to the artificial computer language
 
 ![image 35](images/35.png)
 
-![image 36](images/36.png)
+![image 37](images/37.png)
