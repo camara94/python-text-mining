@@ -162,4 +162,6 @@ compared to the artificial computer language
 
 ## Naive Bayes Classification
 
-![image 31](images/32.png)
+![image 32](images/32.png)
+
+![image 33](images/33.png)
