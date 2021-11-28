@@ -143,3 +143,7 @@ compared to the artificial computer language
 ## Types of textual features (3)
 
 ![image 25](images/25.png)
+
+## Naive Bayes Classifiers
+
+## Case study: Classifying text search queries
