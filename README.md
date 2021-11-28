@@ -152,3 +152,6 @@ compared to the artificial computer language
 
 ![image 27](images/27.png)
 
+## Probabilistic model
+
+![image 28](images/28.png)
