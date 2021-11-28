@@ -127,3 +127,5 @@ compared to the artificial computer language
 ## Questions to ask in Supervised Learning
 
 ![image 20](images/21.png)
+
+## Why is textual data unique ?
