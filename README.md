@@ -185,3 +185,5 @@ compared to the artificial computer language
 ![image 39](images/39.png)
 
 ## Two Naïve Bayes Variants For Text
+
+![image 40](images/40.png)
