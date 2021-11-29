@@ -187,3 +187,7 @@ compared to the artificial computer language
 ## Two Naïve Bayes Variants For Text
 
 ![image 40](images/40.png)
+
+## Support Vector Machine
+
+## Decision Boundaries
