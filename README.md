@@ -231,3 +231,7 @@ compared to the artificial computer language
 ## Take Home Messages
 
 ![image 55](images/55.png)
+
+## Using Sklearn's NaiveBayesClassifier
+
+![image 56](images/56.png)
