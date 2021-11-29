@@ -260,4 +260,4 @@ compared to the artificial computer language
 
 ## Take Home Concept
 
-![image 64](images/64.png)
+![image 65](images/65.png)
