@@ -205,3 +205,5 @@ compared to the artificial computer language
 ![image 45](images/45.png)
 
 ![image 46](images/46.png)
+
+## SVM: Multi-class classification
