@@ -235,3 +235,5 @@ compared to the artificial computer language
 ## Using Sklearn's NaiveBayesClassifier
 
 ![image 57](images/57.png)
+
+## Using Sklearn's SVM Classifier
