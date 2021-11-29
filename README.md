@@ -249,3 +249,7 @@ compared to the artificial computer language
 ## Supervised Text Classification in NLTK
 
 ![image 61](images/61.png)
+
+## Using NLTK's NaiveBayesClassifier
+
+![image 62](images/62.png)
