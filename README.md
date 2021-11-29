@@ -191,3 +191,5 @@ compared to the artificial computer language
 ## Support Vector Machine
 
 ## Decision Boundaries
+
+![image 41](images/41.png)
