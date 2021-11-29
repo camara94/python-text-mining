@@ -242,4 +242,6 @@ compared to the artificial computer language
 
 ## Model Selection in Scikit-learn
 
+![image 60](images/60.png)
+
 ![image 59](images/59.png)
