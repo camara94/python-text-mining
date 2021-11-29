@@ -193,3 +193,7 @@ compared to the artificial computer language
 ## Decision Boundaries
 
 ![image 41](images/41.png)
+
+## Choosing a Decision Boundary
+
+![image 42](images/42.png)
