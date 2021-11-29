@@ -237,3 +237,5 @@ compared to the artificial computer language
 ![image 57](images/57.png)
 
 ## Using Sklearn's SVM Classifier
+
+![image 58](images/58.png)
