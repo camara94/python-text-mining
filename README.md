@@ -227,3 +227,5 @@ compared to the artificial computer language
 ## SVM Parameters (2): Others Params
 
 ![image 54](images/54.png)
+
+## Take Home Message
