@@ -183,3 +183,5 @@ compared to the artificial computer language
 ## Take Home Concepts
 
 ![image 39](images/39.png)
+
+## Two Naïve Bayes Variants For Text
