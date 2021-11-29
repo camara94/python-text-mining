@@ -257,3 +257,7 @@ compared to the artificial computer language
 ## Using NLTK's SkearnClassifier
 
 ![image 63](images/63.png)
+
+## Take Home Concept
+
+![image 64](images/64.png)
