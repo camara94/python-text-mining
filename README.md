@@ -201,3 +201,5 @@ compared to the artificial computer language
 ## Finding a Linear Boundary
 
 ![image 44](images/44.png)
+
+![image 45](images/45.png)
