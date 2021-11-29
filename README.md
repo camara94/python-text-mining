@@ -228,4 +228,6 @@ compared to the artificial computer language
 
 ![image 54](images/54.png)
 
-## Take Home Message
+## Take Home Messages
+
+![image 55](images/55.png)
