@@ -175,3 +175,7 @@ compared to the artificial computer language
 ![image 35](images/35.png)
 
 ![image 37](images/37.png)
+
+## Naïve Bayes: Smoothing
+
+![image 38](images/38.png)
