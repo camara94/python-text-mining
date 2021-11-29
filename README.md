@@ -245,3 +245,7 @@ compared to the artificial computer language
 ![image 60](images/60.png)
 
 ![image 59](images/59.png)
+
+## Supervised Text Classification in NLTK
+
+![image 61](images/61.png)
