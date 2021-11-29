@@ -197,3 +197,7 @@ compared to the artificial computer language
 ## Choosing a Decision Boundary
 
 ![image 42](images/42.png)
+
+## Finding a Linear Boundary
+
+![image 43](images/43.png)
