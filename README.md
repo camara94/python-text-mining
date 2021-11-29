@@ -239,3 +239,7 @@ compared to the artificial computer language
 ## Using Sklearn's SVM Classifier
 
 ![image 58](images/58.png)
+
+## Model Selection in Scikit-learn
+
+![image 59](images/59.png)
