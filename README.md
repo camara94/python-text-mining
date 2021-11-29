@@ -179,3 +179,5 @@ compared to the artificial computer language
 ## Naïve Bayes: Smoothing
 
 ![image 38](images/38.png)
+
+## Take Home Concepts
