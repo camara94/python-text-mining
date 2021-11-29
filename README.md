@@ -221,3 +221,5 @@ compared to the artificial computer language
 ![image 52](images/52.png)
 
 ## SVM Parameters (I): Parameter C
+
+![image 53](images/53.png)
