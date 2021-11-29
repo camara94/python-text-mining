@@ -234,4 +234,4 @@ compared to the artificial computer language
 
 ## Using Sklearn's NaiveBayesClassifier
 
-![image 56](images/56.png)
+![image 57](images/57.png)
