@@ -253,3 +253,7 @@ compared to the artificial computer language
 ## Using NLTK's NaiveBayesClassifier
 
 ![image 62](images/62.png)
+
+## Using NLTK's SkearnClassifier
+
+![image 63](images/63.png)
