@@ -328,3 +328,5 @@ compared to the artificial computer language
 ![image 88](images/88.png)
 
 ## Take Home Concepts
+
+![image 89](images/89.png)
