@@ -336,3 +336,5 @@ compared to the artificial computer language
 ![image 90](images/90.png)
 
 ## Information Extraction
+
+![image 91](images/91.png)
