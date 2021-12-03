@@ -337,4 +337,4 @@ compared to the artificial computer language
 
 ## Information Extraction
 
-![image 91](images/91.png)
+![image 92](images/92.png)
