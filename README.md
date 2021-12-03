@@ -369,3 +369,12 @@ compared to the artificial computer language
 
 ![image 100](images/100.png)
 
+## Additional Resources & Readings
+
+* [http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
+* [https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
+
+* [https://en.wikipedia.org/wiki/Plate_notation](https://en.wikipedia.org/wiki/Plate_notation)
+
+* [https://www.nltk.org/howto/wordnet.html](https://www.nltk.org/howto/wordnet.html)
