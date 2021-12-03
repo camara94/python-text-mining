@@ -360,3 +360,5 @@ compared to the artificial computer language
 ## Co-reference resolution
 
 ![image 98](images/98.png)
+
+## Question Answering
