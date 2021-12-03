@@ -261,3 +261,7 @@ compared to the artificial computer language
 ## Take Home Concept
 
 ![image 65](images/65.png)
+
+## Similarity with NLP in Python 
+
+![image 66](images/66.png)
