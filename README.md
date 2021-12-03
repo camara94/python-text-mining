@@ -346,3 +346,5 @@ compared to the artificial computer language
 ## Named Entity Recognition
 
 ![image 94](images/94.png)
+
+## Approche to identify named entities
