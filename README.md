@@ -312,3 +312,5 @@ compared to the artificial computer language
 ## Latent Dirichlet Allocation (LDA)
 
 ![image 81](images/81.png)
+
+## Topic Modeling in Practice
