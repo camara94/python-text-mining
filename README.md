@@ -362,3 +362,5 @@ compared to the artificial computer language
 ![image 98](images/98.png)
 
 ## Question Answering
+
+![image 99](images/99.png)
