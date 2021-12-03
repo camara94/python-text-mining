@@ -292,3 +292,5 @@ compared to the artificial computer language
 ## Take Home Concepts
 
 ![image 67](images/67.png)
+
+## What is Topic Modeling ?
