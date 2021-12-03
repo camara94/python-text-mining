@@ -262,6 +262,8 @@ compared to the artificial computer language
 
 ![image 65](images/65.png)
 
+
+## Application of semantic similarity
 ## Similarity with NLP in Python 
 
 ![image 66](images/66.png)
