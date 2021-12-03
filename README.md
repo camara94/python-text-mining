@@ -367,5 +367,5 @@ compared to the artificial computer language
 
 ## Take Home Concepts
 
-![image 100](images/10.png)
+![image 100](images/100.png)
 
