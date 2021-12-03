@@ -320,3 +320,5 @@ compared to the artificial computer language
 ## Topic Modeling: Summary
 
 ![image 83](images/83.png)
+
+## Working with LDA in Python
