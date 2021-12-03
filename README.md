@@ -276,6 +276,7 @@ compared to the artificial computer language
 
 ## Coming back to our deer example
 
+![image 71](images/71.png)
 
 ## Similarity with NLP in Python 
 
