@@ -302,3 +302,7 @@ compared to the artificial computer language
 ![image 78](images/78.png)
 
 ## Generative Models for Text
+
+![image 79](images/79.png)
+
+## Generative Model can be complex
