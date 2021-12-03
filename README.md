@@ -364,3 +364,8 @@ compared to the artificial computer language
 ## Question Answering
 
 ![image 99](images/99.png)
+
+## Take Home Concepts
+
+![image 100](images/10.png)
+
