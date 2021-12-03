@@ -318,3 +318,5 @@ compared to the artificial computer language
 ![image 82](images/82.png)
 
 ## Topic Modeling: Summary
+
+![image 83](images/83.png)
