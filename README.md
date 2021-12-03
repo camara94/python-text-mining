@@ -342,3 +342,5 @@ compared to the artificial computer language
 ## Fields of Interest
 
 ![image 93](images/93.png)
+
+## Named Entity Recognition
