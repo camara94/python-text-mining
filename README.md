@@ -344,3 +344,5 @@ compared to the artificial computer language
 ![image 93](images/93.png)
 
 ## Named Entity Recognition
+
+![image 94](images/94.png)
