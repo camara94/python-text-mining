@@ -338,3 +338,5 @@ compared to the artificial computer language
 ## Information Extraction
 
 ![image 92](images/92.png)
+
+## Fields of Interest
