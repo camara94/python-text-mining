@@ -271,6 +271,12 @@ compared to the artificial computer language
 ![image 69](images/69.png)
 
 ## Semantic similarity using WordNet
+
+![image 70](images/70.png)
+
+## Coming back to our deer example
+
+
 ## Similarity with NLP in Python 
 
 ![image 66](images/66.png)
