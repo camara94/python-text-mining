@@ -282,6 +282,8 @@ compared to the artificial computer language
 
 ![image 66](images/66.png)
 
+## Distributional Similarity: Context
+
 ## Take Home Concepts
 
 ![image 67](images/67.png)
