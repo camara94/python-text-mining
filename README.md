@@ -358,3 +358,5 @@ compared to the artificial computer language
 ![image 97](images/97.png)
 
 ## Co-reference resolution
+
+![image 98](images/98.png)
