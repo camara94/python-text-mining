@@ -306,3 +306,5 @@ compared to the artificial computer language
 ![image 79](images/79.png)
 
 ## Generative Model can be complex
+
+![image 80](images/80.png)
