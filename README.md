@@ -334,3 +334,5 @@ compared to the artificial computer language
 ## Information is hidden in free-text
 
 ![image 90](images/90.png)
+
+## Information Extraction
