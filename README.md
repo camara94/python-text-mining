@@ -288,7 +288,7 @@ compared to the artificial computer language
 
 ## Strength of association between words
 
-![image 73](images/73.png)
+![image 74](images/74.png)
 ## Take Home Concepts
 
 ![image 67](images/67.png)
