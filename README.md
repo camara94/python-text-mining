@@ -356,3 +356,5 @@ compared to the artificial computer language
 ## Relation extraction
 
 ![image 97](images/97.png)
+
+## Co-reference resolution
