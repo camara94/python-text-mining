@@ -323,4 +323,4 @@ compared to the artificial computer language
 
 ## Working with LDA in Python
 
-![image 84](images/84.png)
+![image 86](images/86.png)
