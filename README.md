@@ -300,3 +300,5 @@ compared to the artificial computer language
 ![image 77](images/77.png)
 
 ![image 78](images/78.png)
+
+## Generative Models for Text
