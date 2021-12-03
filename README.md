@@ -310,3 +310,5 @@ compared to the artificial computer language
 ![image 80](images/80.png)
 
 ## Latent Dirichlet Allocation (LDA)
+
+![image 81](images/81.png)
