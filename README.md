@@ -340,3 +340,5 @@ compared to the artificial computer language
 ![image 92](images/92.png)
 
 ## Fields of Interest
+
+![image 93](images/93.png)
