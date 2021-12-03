@@ -354,3 +354,5 @@ compared to the artificial computer language
 ![image 96](images/96.png)
 
 ## Relation extraction
+
+![image 97](images/97.png)
