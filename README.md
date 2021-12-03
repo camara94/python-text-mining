@@ -322,3 +322,5 @@ compared to the artificial computer language
 ![image 83](images/83.png)
 
 ## Working with LDA in Python
+
+![image 84](images/84.png)
