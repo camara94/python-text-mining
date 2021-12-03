@@ -348,3 +348,5 @@ compared to the artificial computer language
 ![image 94](images/94.png)
 
 ## Approche to identify named entities
+
+![image 95](images/95.png)
