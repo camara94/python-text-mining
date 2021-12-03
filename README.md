@@ -264,9 +264,12 @@ compared to the artificial computer language
 
 
 ## Application of semantic similarity
-## Similarity with NLP in Python 
-
 ![image 68](images/68.png)
+
+## WordNet
+
+![image 69](images/69.png)
+## Similarity with NLP in Python 
 
 ![image 66](images/66.png)
 
