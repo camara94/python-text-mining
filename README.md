@@ -330,3 +330,5 @@ compared to the artificial computer language
 ## Take Home Concepts
 
 ![image 89](images/89.png)
+
+## Information is hidden in free-text
