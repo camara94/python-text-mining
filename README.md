@@ -316,3 +316,5 @@ compared to the artificial computer language
 ## Topic Modeling in Practice
 
 ![image 82](images/82.png)
+
+## Topic Modeling: Summary
