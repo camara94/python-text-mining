@@ -332,3 +332,5 @@ compared to the artificial computer language
 ![image 89](images/89.png)
 
 ## Information is hidden in free-text
+
+![image 90](images/90.png)
