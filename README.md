@@ -294,3 +294,5 @@ compared to the artificial computer language
 ![image 67](images/67.png)
 
 ## What is Topic Modeling ?
+
+![image 76](images/76.png)
