@@ -308,3 +308,5 @@ compared to the artificial computer language
 ## Generative Model can be complex
 
 ![image 80](images/80.png)
+
+## Latent Dirichlet Allocation (LDA)
